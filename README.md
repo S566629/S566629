@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/cloud-banner-path/cloud-banner.png" alt="Cloud Banner" width="100%"/>
+  <img src="https://github.com/S566629/S566629/blob/e03086d68e5a2298801ea02ee1855f0ca88a5864/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Cloud Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Saikumar Thangalla</h1>
