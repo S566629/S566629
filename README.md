@@ -7,7 +7,7 @@
 
 <div align="center" style="margin: 20px;">
   <h3>📄CV</h3>
-  <a href="https://github.com/S566629/S566629/raw/main/saikumar.pdf" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/S566629/S566629/commit/a27f312aa464693b8a11e013ee3d9bb76f5d68ff" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" alt="Download Resume">
   </a>
   <p style="font-size: 16px; color: #333; margin-top: 10px; font-style: italic;">
