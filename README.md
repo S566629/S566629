@@ -5,16 +5,6 @@
 <h1 align="center">Hi 👋, I'm Saikumar Thangalla</h1>
 <h3 align="center">AWS Certified DevOps Engineer | Passionate about DevOps, Cloud Engineering & AI-Driven Solutions</h3>
 
-<div align="center" style="margin: 20px;">
-  <h3>📄CV</h3>
-  <a href="https://github.com/S566629/S566629/raw/main/saikumar.pdf" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" alt="Download Resume">
-  </a>
-  <p style="font-size: 16px; color: #333; margin-top: 10px; font-style: italic;">
-    Click the button above to download my detailed CV and explore my journey in DevOps, Cloud Engineering.
-  </p>
-</div>
-
 
 - 🔭 I’m currently working on **automating cloud deployments and integrating AI-based optimization tools.**
 - 🌱 I’m currently learning **AI-driven monitoring and predictive analytics for DevOps pipelines.**
