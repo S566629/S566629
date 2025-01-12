@@ -2,7 +2,7 @@
   <img src="https://github.com/S566629/Saikumar/blob/main/1_reRpiezl3EnhtteqjoGSLw.gif" alt="Cloud Banner" width="70%"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Saikumar Thangalla</h1>
+<h1 align="center">Hi 👋, I'm Saikumar</h1>
 <h3 align="center">AWS Certified DevOps Engineer | Passionate about DevOps, Cloud Engineering & AI-Driven Solutions</h3>
 
 
